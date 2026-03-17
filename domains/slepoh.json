@@ -1,8 +1,9 @@
 {
     "owner": {
-        "username": "slepoh"
+        "username": "slepoh",
+        "email": "slepoh@qq.com"
     },
     "records": {
-        "CNAME": "example.org"
+        "CNAME": "msg-917.pages.dev"
     }
 }
